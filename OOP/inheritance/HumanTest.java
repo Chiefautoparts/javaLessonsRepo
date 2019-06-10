@@ -1,4 +1,8 @@
 class HumanTest {
+	public void startSleeping(){
+		System.out.println("Toss and turn");
+	}
+	
 	public static void main(String[] args){
 		Human huewMann = new Human();
 		huewMann.regulateTemperature();
