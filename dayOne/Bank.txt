@@ -1,0 +1,29 @@
+#**You have just been hired by a up and coming bank and they need you to create their banking software. **#
+
+## program will need to have functions such as ##
+	1. Deposit money 
+	2. Withdraw money
+	3. Check Balance
+
+### ** *Steps* ** ###
+1. Create a new file called Bank.java and save it into you Java Folder
+
+2. Declare the class, main method, and two integer variables. name one account_number, and the other account_balance
+
+3. create 3 more methods
+	1. Deposit - takes in a dollar amount and adds it to the accounts current balance 
+	2. Withdraw - removes an inputed amount from the account balance
+	3. Available balance - displays the current available balance in the account
+
+4. print to the console some deposits and some withdraws from the account and print the total available balance
+
+5. Compile your file and then run your java program to see your results.
+
+#**CHALLENGES**#
+*Test Your abilities*
+
+- print an error to the terminal if an attempt to deposit a negative amount happens
+- add a *Checking* and *Savings* accounts to the one master account
+- Add a transfer money between *Checking* and *Savings* method.
+- add the option to check the balance of just *Checking* *Savings* or *both*
+- require a minimum balance of $5 be in both accounts
