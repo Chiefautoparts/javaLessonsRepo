@@ -1,5 +1,10 @@
 public class VariablesDemo {
-	
+	int data = 99; // instance variable
+	static int a = 1; // static variable
+	void exampleMethod(){
+		int b = 91; // local variable
+	}
+
 	int num;
 	float pi;
 	double do;
