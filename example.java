@@ -1,5 +1,5 @@
-class Hacker {
-	Account a = new Account();
-	a.account_balance = -100;
-	a.deposit(-100);
+class HelloWorld{
+	public static void main(String[] args){
+		System.out.println("Hello World!");
+	}
 }
